@@ -21,7 +21,7 @@ node main.js filename
 ### Output
 - For both subject.js and mystery.js
 
-![file](https://github.com/ai-se/Devops-HW2/raw/master/image.png)
+![file](https://github.com/amritbhanu/Devops-HW2/raw/master/image.png)
 
 
 ### Code Coverage
